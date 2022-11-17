@@ -1,6 +1,6 @@
-apiVersion: com.amrut.prabhu/v1
+apiVersion: com.andrew.rowden/v1
 kind: my-cred
 metadata:
   name: my-custom-instance
 spec:
-  my-own-property: "firs tinstance"
+  my-own-property: "first instance"
