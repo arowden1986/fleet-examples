@@ -1,0 +1,6 @@
+apiVersion: com.andrew.rowden/v1
+kind: my-cred
+metadata:
+  name: my-custom-instance
+spec:
+  my-own-property: "first instance"
